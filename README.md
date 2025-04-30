@@ -13,9 +13,6 @@ The goal of this repository is to experiment with GitHub Actions in deploying an
 - Open-source under the MIT License
 - Contributor-friendly setup
 
-## Credits
-
-This project builds upon the work of Joey Huang in [Actions-bbr-v3](https://github.com/byJoey/Actions-bbr-v3), an excellent tool for building and distributing custom kernels.
 
 ## Contributors
 
